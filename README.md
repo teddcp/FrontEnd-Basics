@@ -1,5 +1,5 @@
 # FrontEnd-Basics
-
+<body>
 <div>
 <p> 1. Headers : <br>
    h1, h2, h3, h4, h5, h6 are the headers in which h1 is the largest header(in font) and h6 is the smallest </p>
@@ -17,14 +17,7 @@ examples:
 </div>
 
 
-<h2>Forms Basics</h2><br>
-
-<!DOCTYPE html>
-<html>
-<head>
-	<title>Form Demo</title>
-</head>
-<body>
+	<h2>Forms Basics</h2><br>
 	<form action="default.py" method="post" >
 		<fieldset>
 			<legend>Personal Information</legend>
@@ -103,4 +96,4 @@ examples:
 			<input type="week" name="week_year"><br><br>
 
 </body>
-</html>
+
