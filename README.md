@@ -16,10 +16,9 @@ examples:
 </p>
 </div>
 
-
-	<h2>Forms Basics</h2><br>
-	<form action="default.py" method="post" >
-		<fieldset>
+<h2>Forms Basics</h2><br>
+<form action="default.py" method="post" >
+	<fieldset>
 			<legend>Personal Information</legend>
 			First name : <br>
 			<input type="text" name="First name" value="" placeholder="Enter the first name" autofocus><br>
@@ -30,7 +29,6 @@ examples:
 			<input type="radio" name="gender" value="FeMale">FeMale<br>
 			<input type="radio" name="gender" value="Others">Others<br>
 			<br>
-
 			choose one option<br>
 			<input type="checkbox" name="passed" value="passed" checked>passed in semester<br>
 			<input type="checkbox" name="failed" value="failed">failed in semester<br><br>
@@ -53,7 +51,6 @@ examples:
 					<option value="Physics">Physics</option>
 					<option value="Chemistry">Chemistry</option>
 				</datalist>
-
 			<br><br>
 			Enter additional comments if any:<br>
 			<textarea name="message" style="width:200px; height:100px;" maxlength="3">
