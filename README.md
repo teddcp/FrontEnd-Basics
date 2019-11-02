@@ -12,7 +12,7 @@ examples:
 <div>
 <p> 2. Paragraph: <br> 
    p tag is used for paragraphs and broswers erases the extra spaces and lines while displaying . 
-   To keep the extra space and line we can use the <a href='https://www.w3schools.com/html/tryit.asp?filename=tryhtml_pre'>pre tag</a>
+   To keep the extra space and line we can use the <a href='HTML5/Forms_Basic.html'>pre tag</a>
 </p>
 </div>
 
