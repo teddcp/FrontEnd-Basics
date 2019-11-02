@@ -17,6 +17,6 @@ examples:
 </div>
 
 <h2>Forms Basics</h2><br>
-<p>You will find all the code and link to learn <a href='HTML5/Forms_Basics.html' >HTML5 forms</a></p>
+<p>You will find all the code and link to learn <a href='HTML5/Form_Basics.html' >HTML5 forms</a></p>
 </body>
 
