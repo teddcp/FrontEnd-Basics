@@ -7,10 +7,10 @@
 	<form action="default.py" method="post" >
 		<fieldset>
 			<legend>Personal Information</legend>
-			First name : <br>
-			<input type="text" name="First name" value="" placeholder="Enter the first name" autofocus><br>
-			Last name : <br>
-			<input type="password" name="Password" value=""><br>
+			<label for='First name'>
+			<input type="text" name="First name" id="First name" placeholder="Enter the first name" autofocus><br>
+			<label for="Last name">
+			<input type="password" name="Password" id="Last name"><br>
 			Gender:<br>
 			<input type="radio" name="gender" value="Male" checked>Male<br>
 			<input type="radio" name="gender" value="FeMale">FeMale<br>
@@ -50,7 +50,7 @@
 			<button type="button" onclick="alert('Hello World!')" disabled>Click Me!</button>
 			&nbsp;
 			<input type="submit" name="submit" value="submit">
-			&nsp;
+			&nbsp;
 			<input type="reset" name="reset" >
 			<br><br>
 			<b>HTML5 added attributes (including datalist and output) :</b><br>
